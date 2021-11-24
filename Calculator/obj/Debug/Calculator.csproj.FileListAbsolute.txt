@@ -1,0 +1,6 @@
+C:\Users\Watek PC\source\repos\CalculadoraDeImpuesto\Calculator\bin\Debug\Calculator.dll
+C:\Users\Watek PC\source\repos\CalculadoraDeImpuesto\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Watek PC\source\repos\CalculadoraDeImpuesto\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Watek PC\source\repos\CalculadoraDeImpuesto\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Watek PC\source\repos\CalculadoraDeImpuesto\Calculator\obj\Debug\Calculator.dll
+C:\Users\Watek PC\source\repos\CalculadoraDeImpuesto\Calculator\obj\Debug\Calculator.pdb
